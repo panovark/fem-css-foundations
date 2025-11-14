@@ -102,12 +102,6 @@ Please follow the existing code style (Prettier config included) and keep class 
 
 ---
 
-## 📄 License
-
-[MIT](LICENSE) © 2025 Arkadiy Panov
-
----
-
 ## 🙏 Credits
 
 Built as part of the [Frontend Masters ](https://frontendmasters.com/courses/css-foundations/)[**CSS Foundations**](https://frontendmasters.com/courses/css-foundations/) course by Emma Bostian.
